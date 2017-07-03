@@ -1,0 +1,35 @@
+.navbar {
+    border-radius: 0px !important;
+}
+
+.loader {
+    border: 16px solid lightgray;
+    border-top: 16px solid grey;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.left-space {
+    margin-left: 5px;
+}
+
+.right-space {
+    margin-right: 5px;
+}
+
+/*html, body {*/
+    /*background: url(https://www.toptal.com/designers/subtlepatterns/patterns/witewall_3.png) repeat;*/
+/*}*/
+
+/*#my-app section{*/
+    /*background-color: rgba(0, 0, 0, 0.1);*/
+    /*border-radius: 0.5em;*/
+    /*padding: 1em;*/
+/*}*/
