@@ -1,6 +1,6 @@
 # React-Discogs_MusicApp
-A React/Redux application that uses Bootstrap (with Instant theme) and the Discogs API. Requires a API key and secret from Discogs.
-
+A React/Redux application that uses Bootstrap (with Instant theme) and the Discogs API.
+<br>Requires an API key and secret from [Discogs](https://www.discogs.com/developers/).
 
 * [React](https://facebook.github.io/react/)
 * [Redux](http://redux.js.org/)
