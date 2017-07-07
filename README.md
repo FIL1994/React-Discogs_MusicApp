@@ -7,10 +7,15 @@ A React/Redux application that uses Bootstrap (with Instant theme) and the Disco
 * [Bootstrap](http://getbootstrap.com/)
 * [Instant Theme (Bootstrap)](http://blacktie.co/demo/instant/)
 
+<hr>
+
 ![Search](http://react-discogs.philvr.com/img/home.png)
+<hr>
 
 ![Artist](http://react-discogs.philvr.com/img/artist.png)
+<hr>
 
 ![Releases](http://react-discogs.philvr.com/img/releases.png)
+<hr>
 
 ![Album](http://react-discogs.philvr.com/img/release.png)
