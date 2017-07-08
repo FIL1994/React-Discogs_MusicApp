@@ -19,3 +19,5 @@ A React/Redux application that uses Bootstrap (with Instant theme) and the Disco
 <hr>
 
 ![Album](http://react-discogs.philvr.com/img/release.png)
+
+<hr>
