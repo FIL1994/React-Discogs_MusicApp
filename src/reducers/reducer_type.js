@@ -1,6 +1,8 @@
 /**
- * Created by Philip
- *              on 2017-06-29.
+ * @author Philip Van Raalte
+ * @date 2017-06-29.
+ *
+ * Handles getting info for an item and letting the application know when it is loading the info.
  */
 import {FETCH_TYPE_INFO, FETCH_ARTIST_RELEASES, LOADING_ARTIST_RELEASES} from '../actions';
 

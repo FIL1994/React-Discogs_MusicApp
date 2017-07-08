@@ -1,6 +1,8 @@
 /**
- * Created by Philip
- *              on 2017-06-10.
+ * @author Philip Van Raalte
+ * @date 2017-06-10.
+ *
+ * Handles searching for items and letting the application know when it is loading results.
  */
 import _ from 'lodash';
 import {FETCH_SEARCH_RESULTS, MODIFY_SEARCHING} from '../actions';

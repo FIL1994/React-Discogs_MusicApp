@@ -1,6 +1,8 @@
 /**
- * Created by Philip
- *              on 2017-07-01.
+ * @author Philip Van Raalte
+ * @date 2017-07-01.
+ *
+ * Display pagination so the user can navigate results.
  */
 import React, {Component} from 'react';
 import {Link} from 'react-router-dom';

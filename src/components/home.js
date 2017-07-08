@@ -1,6 +1,8 @@
 /**
- * Created by Philip
- *              on 2017-06-10.
+ * @author Philip Van Raalte
+ * @date 2017-06-10.
+ *
+ * The Home page
  */
 import React, {Component} from 'react';
 import {connect} from 'react-redux';

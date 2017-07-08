@@ -1,6 +1,6 @@
 /**
- * Created by Philip
- *              on 2017-06-29.
+ * @author Philip Van Raalte
+ * @date 2017-06-29.
  */
 import React, {Component} from 'react';
 import {fetchInfoByType} from '../../actions';

@@ -1,6 +1,8 @@
 /**
- * Created by Philip
- *              on 2017-06-10.
+ * @author Philip Van Raalte
+ * @date 2017-06-10.
+ *
+ * This is a link for a navbar that will display as active if the url matches.
  */
 import React, {Component} from 'react';
 import {connect} from 'react-redux';

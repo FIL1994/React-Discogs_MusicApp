@@ -1,6 +1,8 @@
 /**
- * Created by Philip
- *              on 2017-07-01.
+ * @author Philip Van Raalte
+ * @date 2017-07-01.
+ *
+ * Handles sorting the releases.
  */
 import React, {Component} from 'react';
 import {fetchArtistReleases, loadingArtistReleases} from '../actions';

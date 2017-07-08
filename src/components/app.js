@@ -1,3 +1,7 @@
+/**
+ * @author Philip Van Raalte
+ * @date 2017-06-10.
+ */
 import React, { Component } from 'react';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
 import Header from './header';

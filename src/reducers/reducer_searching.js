@@ -1,8 +1,7 @@
 /**
- * Created by Philip
- *              on 2017-06-10.
+ * @author Philip Van Raalte
+ * @date 2017-06-10.
  */
-import _ from 'lodash';
 import {MODIFY_SEARCHING_ARTIST_RELEASES} from '../actions';
 
 export default function (state = {}, action) {

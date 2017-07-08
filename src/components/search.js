@@ -1,6 +1,8 @@
 /**
- * Created by Philip
- *              on 2017-06-10.
+ * @author Philip Van Raalte
+ * @date 2017-06-10.
+ *
+ * The search component that allows the user to find a artist, release, etc.
  */
 import React, {Component} from 'react';
 import {Field, reduxForm} from 'redux-form';

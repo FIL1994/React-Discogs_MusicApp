@@ -1,6 +1,8 @@
 /**
- * Created by Philip
- *              on 2017-06-10.
+ * @author Philip Van Raalte
+ * @date 2017-06-10.
+ *
+ * Displays the search results to the user.
  */
 import _ from 'lodash';
 import React, {Component} from 'react';
@@ -15,15 +17,6 @@ class SearchResults extends Component {
             results : {}
         };
     }
-
-    // componentWillUpdate(nextProps, nextState){
-    //
-    // }
-    //
-    // componentDidUpdate(prevProps, prevState){
-    //
-    // }
-
     renderResults(){
         //console.log(this.props.results);
 
