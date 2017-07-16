@@ -24,7 +24,7 @@ module.exports = {
   devServer: {
     historyApiFallback: true,
     contentBase: './',
-    port: 8082,
+    port: 8087,
     hot: false
     /*
     To restart:
